@@ -17,6 +17,99 @@ I'm a System Analist based in Franca, São Paulo, Brazil. I have a passion for G
 
 </div>
 
+## 💼 Work experience
+
+In the overview below you will find my most recent work experience:
+
+<div>
+
+  [<img align="left" width="94px" alt="Woohoo Plus" src="./companies/woohooplus_logo.jpg"/>](https://www.woohoo.plus/)
+
+  <p align="right">
+
+  **Back End Developer** • Jun 2023 - Present <br />
+  **Company:** [**Viasoft Korp**](https://unifacefjr.com.br/)  <br />
+  **Some technologies:** `Golang`, `Kubernets`, `NodeJS`, `Blockchain`, `GRPc`, `API REST`, `Git`, `Gitlab`, `Redis`, `Dart` <br />
+  </p>
+</div>
+
+<br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Viasoft Korp" src="./companies/viasoft_korp_logo.jpg"/>](https://www.korp.com.br/)
+
+  <p align="right">
+
+  **Back End Developer** • Feb 2023 - May 2024 <br />
+  **Company:** [**Viasoft Korp**](https://unifacefjr.com.br/)  <br />
+  **Some technologies:** `Golang`, `Delphi`, `Angular`, `Cypress`, `SQL Server`, `API REST`, `Git`, `Bitbucket`, `Redis`, `Docker`, `C#`, `Jenkins` <br />
+  </p>
+</div>
+
+<br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Q2 Pay" src="./companies/quero2pay_logo.jpg"/>](https://q2pay.com.br/)
+
+  <p align="right">
+
+  **Back End Developer** • Apr 2022 - Feb 2023 <br />
+  **Company:** [**Q2 Pay**](https://q2pay.com.br)  <br />
+  **Some technologies:** `Golang`, `AWS`, `NodeJS`, `ReactJS`, `JavaScript`, `API REST`, `Git`, `Gitlab`, `MongoDB`, `SQL Server`, `NextJS`, `C#`, `React Native`, `Jest` <br />
+  </p>
+</div>
+
+<br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Uni-FACEF Júnior" src="./companies/Uni-FACEF Jr2.png"/>](https://unifacefjr.com.br)
+
+  <p align="right">
+
+  **Project Manager** • Apr 2020 - May 2022 <br />
+  **Company:** [**Uni-FACEF Júnior**](https://unifacefjr.com.br/)  <br />
+  **Some technologies:** `WordPress`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `API REST`, `Git`, `Github`, `R`, `Software Documentation`, `PHP` <br />
+  </p>
+</div>
+
+<br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Uni-FACEF" src="./companies/unifacef-logo.png"/>](https://www.unifacef.com.br/)
+
+  <p align="right">
+
+  **Technical Support Analyst** • Nov 2020 - Apr 2022 <br />
+  **Company:** [**Uni-FACEF**](https://www.unifacef.com.br/)
+  </p>
+</div>
+
+<br/><br/>
+
+Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience.
+
+<br />
+
+## 📘 Education
+
+<div>
+
+  [<img align="left" width="94px" alt="Uni-FACEF" src="./companies/unifacef-logo.png"/>](https://www.unifacef.com.br/)
+
+  <p align="right">
+
+  **Sistem Information** <br />
+  [**Uni-FACEF**](https://www.unifacef.com.br/) • jan/2020 > dec/2023 <br />
+  Bachelor's degree
+  </p>
+</div>
+
+<br/><br />
+
 <div align="center" id="skills">
 
 ## Skills
