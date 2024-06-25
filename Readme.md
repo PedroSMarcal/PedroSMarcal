@@ -7,15 +7,6 @@ I'm a System Analist based in Franca, São Paulo, Brazil. I have a passion for G
 - **[Email](pedro.h.silva.marcal@gmail.com):**  pedro.h.silva.marcal@gmail.com
 - **[LinkedIn](https://www.linkedin.com/in/pedro-mar%C3%A7al-3023651a2/):** https://www.linkedin.com/in/pedro-mar%C3%A7al-3023651a2
 
-<div align="center" id="skills">
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroSMarcal&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSMarcal&layout=compact&theme=radical)  
-
-</div>
 
 ## 💼 Work experience
 
@@ -110,6 +101,38 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
 
 <br/><br />
 
+## 📜 Certifications
+
+### <img src="./icons/oracle-academy.png" alt="Oracle Academy Icon" width="50"/>  Programming with PL/SQL
+- **Issued by:** Geraldo Henrique Neto (Oracle Academy Instructor)
+- **Date:** 29 Jul 2022
+- **Description:** For Satisfactory Complation of All Coursework and Training
+
+### <img src="./icons/be_compliance_logo.jpg" alt="Be Compliance Icon" width="50"/>  Compliance For All
+- **Issued by:** Be Compliance
+- **Date:** 10 Jul 2022
+### <img src="./icons/be_compliance_logo.jpg" alt="Be Compliance Icon" width="50"/>  Diversity And Inclusion
+- **Issued by:** Be Compliance
+- **Date:** 10 Jul 2022
+### <img src="./icons/be_compliance_logo.jpg" alt="Be Compliance Icon" width="50"/>  PLD/FT (Prevention of Money Laundering and Financing of Terrorism)
+- **Issued by:** Be Compliance
+- **Date:** 10 Jul 2022
+### <img src="./icons/udemy_logo.jpg" alt="Udemy Icon" width="50"/>  Go (Golang): Explorando a Linguagem do Google
+- **Issued by:** Udemy
+- **Date:** Apr 2022
+
+
+<div align="center" id="skills">
+
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroSMarcal&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSMarcal&layout=compact&theme=radical)  
+
+</div>
+
 <div align="center" id="skills">
 
 ## Skills
@@ -160,30 +183,11 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
 #### Documentation
 <img src="./icons/Postman.svg" alt="Postman Icon" width="40"/> 
 <img src="./icons/Notion-Dark.svg" alt="Notion Icon" width="40"/> 
-</div>
-
-## 📜 Certifications
-
-### <img src="./icons/oracle-academy.png" alt="Oracle Academy Icon" width="50"/>  Programming with PL/SQL
-- **Issued by:** Geraldo Henrique Neto (Oracle Academy Instructor)
-- **Date:** 29 Jul 2022
-- **Description:** For Satisfactory Complation of All Coursework and Training
-
-### <img src="./icons/be_compliance_logo.jpg" alt="Be Compliance Icon" width="50"/>  Compliance For All
-- **Issued by:** Be Compliance
-- **Date:** 10 Jul 2022
-### <img src="./icons/be_compliance_logo.jpg" alt="Be Compliance Icon" width="50"/>  Diversity And Inclusion
-- **Issued by:** Be Compliance
-- **Date:** 10 Jul 2022
-### <img src="./icons/be_compliance_logo.jpg" alt="Be Compliance Icon" width="50"/>  PLD/FT (Prevention of Money Laundering and Financing of Terrorism)
-- **Issued by:** Be Compliance
-- **Date:** 10 Jul 2022
-### <img src="./icons/udemy_logo.jpg" alt="Udemy Icon" width="50"/>  Go (Golang): Explorando a Linguagem do Google
-- **Issued by:** Udemy
-- **Date:** Apr 2022
 
 ## Code Chalenges
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PedroSMarcal?theme=dark&font=Share&ext=heatmap)
+
+</div>
 
 ## Let's Connect!
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
