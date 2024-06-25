@@ -17,6 +17,55 @@ I'm a System Analist based in Franca, São Paulo, Brazil. I have a passion for G
     </a>
 </div>
 
+## My main skills
+### Languages
+<img src="./icons/GoLang.svg" alt="Golang Icon" width="60"/> 
+<img src="./icons/Python-Dark.svg" alt="Python Icon" width="60"/> 
+<img src="./icons/JavaScript.svg" alt="JavaScript Icon" width="60"/> 
+<img src="./icons/Java-Dark.svg" alt="Java Icon" width="60"/> 
+<img src="./icons/Solidity.svg" alt="Solidity Icon" width="60"/> 
+
+### Frameworks
+<img src="./icons/Flask-Dark.svg" alt="Java Icon" width="60"/> 
+<img src="./icons/NextJS-Dark.svg" alt="Next Icon" width="60"/> 
+<img src="./icons/ExpressJS-Dark.svg" alt="Express Icon" width="60"/> 
+<img src="./icons/Spring-Dark.svg" alt="Spring Icon" width="60"/> 
+<img src="./icons/Angular-Dark.svg" alt="Angular Icon" width="60"/> 
+
+### Databases
+<img src="./icons/PostgreSQL-Dark.svg" alt="Postgress Icon" width="60"/> 
+<img src="./icons/MySQL-Dark.svg" alt="Mysql Icon" width="60"/> 
+<img src="./icons/Redis-Dark.svg" alt="Redis Icon" width="60"/> 
+<img src="./icons/Firebase-Dark.svg" alt="Redis Icon" width="60"/> 
+<img src="./icons/MongoDB.svg" alt="Redis Icon" width="60"/> 
+
+### Version
+<img src="./icons/Git.svg" alt="Git Icon" width="60"/> 
+<img src="./icons/Github-Dark.svg" alt="Github Icon" width="60"/> 
+<img src="./icons/GitLab-Dark.svg" alt="Gitlab Icon" width="60"/> 
+<img src="./icons/BitBucket-Dark.svg" alt="Bitcbucket Icon" width="60"/> 
+
+### Infrastructure
+<img src="./icons/AWS-Dark.svg" alt="AWS Icon" width="60"/> 
+<img src="./icons/Docker.svg" alt="Docker Icon" width="60"/> 
+<img src="./icons/Kubernetes.svg" alt="Kubernetes Icon" width="60"/> 
+<img src="./icons/Nginx.svg" alt="Nginx Icon" width="60"/> 
+<img src="./icons/Vercel-Dark.svg" alt="Vercel Icon" width="60"/>
+<img src="./icons/RabbitMQ-Dark.svg" alt="Redis Icon" width="60"/> 
+
+### IDEs
+<img src="./icons/Eclipse-Dark.svg" alt="Eclipse Icon" width="60"/> 
+<img src="./icons/VisualStudio-Dark.svg" alt="VisualStudio Icon" width="60"/> 
+<img src="./icons/VSCode-Dark.svg" alt="VsCode Icon" width="60"/> 
+
+### Tests
+<img src="./icons/Cypress-Dark.svg" alt="Cypress Icon" width="60"/> 
+<img src="./icons/Jest.svg" alt="Jest Icon" width="60"/> 
+
+### Documentation
+<img src="./icons/Postman.svg" alt="Postman Icon" width="60"/> 
+<img src="./icons/Notion-Dark.svg" alt="Notion Icon" width="60"/> 
+
 ## 📜 Certifications
 
 ### <img src="./icons/oracle-academy.png" alt="Oracle Academy Icon" width="60"/>  Programming with PL/SQL
