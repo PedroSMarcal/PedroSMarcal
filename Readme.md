@@ -81,7 +81,7 @@ In the overview below you will find my most recent work experience:
 
 <br/><br/>
 
-Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience.
+Find me on [LinkedIn](https://www.linkedin.com/in/pedro-mar%C3%A7al-3023651a2) for a more detailed description of my professional experience.
 
 <br />
 
