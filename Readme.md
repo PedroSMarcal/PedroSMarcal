@@ -1,7 +1,7 @@
 # Hello, I am Pedro Marçal!!! 
 
 ## About Me
-I'm a System Analist based in Franca, São Paulo, Brazil. I have a passion for Games, Music and a good talk. I enjoy working on projects that involve [Your Key Areas of Expertise or Interest]. When I'm not coding, you can find me tring to do something diferent every time, such as Skydive or Camping, and playing games.
+I'm a System Analyst based in Franca, São Paulo, Brazil. I have a passion for games, music, and good conversations. I enjoy working on projects involving web development with a focus on Web 3. When I'm not coding, you can find me trying different activities such as skydiving, camping, or playing games.
 
 ## Contact Me
 - **[Email](pedro.h.silva.marcal@gmail.com):**  pedro.h.silva.marcal@gmail.com
